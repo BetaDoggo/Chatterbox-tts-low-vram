@@ -5,3 +5,5 @@ This is a gradio ui for the chatterbox tts library that supports chunking for lo
 1. Install the relevant version of pytorch: https://pytorch.org/
 2. `pip install -r requirements.txt`
 3. `python ui.py`
+# Preview
+![Screenshot 2025-06-06 184748](https://github.com/user-attachments/assets/247c2180-6a31-4f56-ab33-82f9e6bc059a)
